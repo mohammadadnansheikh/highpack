@@ -1,6 +1,6 @@
-import Link from 'next/Link'
+import Link from 'next/link'
 import React from 'react'
-import {RiCloseFill} from 'react-icons/Ri'
+import {RiCloseFill} from 'react-icons/ri'
 
 const Sidebar = ({isOpen, toggleSidebar}) => {
   return (

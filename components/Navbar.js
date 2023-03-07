@@ -1,5 +1,5 @@
-import Link from "next/Link";
-import { AiOutlineMenu } from "react-icons/Ai";
+import Link from "next/link";
+import { AiOutlineMenu } from "react-icons/ai";
 import Sidebar from "./Sidebar";
 // import IconVid  from "../public/Iconvideo.mp4"
 
