@@ -1,4 +1,4 @@
-import { BsTelephoneOutboundFill } from "react-icons/Bs";
+import { BsTelephoneOutboundFill } from "react-icons/bs";
 import { BsLinkedin } from "react-icons/bs";
 import { AiFillFacebook } from "react-icons/ai";
 import { AiFillYoutube } from "react-icons/ai";

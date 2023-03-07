@@ -1,12 +1,12 @@
 import React from 'react'
 import FooterItemContainer from './FooterItemContainer'
-import { BsLinkedin } from "react-icons/Bs";
-import { AiFillFacebook } from "react-icons/Ai";
-import { AiFillYoutube } from "react-icons/Ai";
-import { FaInstagramSquare } from "react-icons/Fa";
-import { FaTwitterSquare } from "react-icons/Fa";
-import { MdEmail } from "react-icons/Md";
-import Link from 'next/Link';
+import { BsLinkedin } from "react-icons/bs";
+import { AiFillFacebook } from "react-icons/ai";
+import { AiFillYoutube } from "react-icons/ai";
+import { FaInstagramSquare } from "react-icons/fa";
+import { FaTwitterSquare } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
+import Link from 'next/link';
 
 const Footer = () => {
   return (
