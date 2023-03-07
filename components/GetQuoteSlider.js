@@ -1,4 +1,4 @@
-import { ImCross } from "react-icons/Im";
+import { ImCross } from "react-icons/im";
 
 const GetQuoteSlider = ({ setSlider }) => {
   return (
