@@ -18,3 +18,4 @@ export const COMPANY = [
 export const SERVICE = [
     {name:"Drag and Drop", link : "#"},
 ]
+
